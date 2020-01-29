@@ -13,4 +13,4 @@ You can do a lot with Twitter bots, tweet out interesting facts, respond with a 
 * Install Python if you haven't already, make sure you also get pip because we will be installing some libraries.
 * Make a new Twitter app using Twitter (we'll guide you through how to do this)
 
-[Part 1: Background info - The Web, APIs](https://github.com/OKStateACM/TwitterBotCodelab/blob/master/part_1.md)
+[Part 1: Background info - The Web, APIs](https://github.com/OKStateACM/Twitter-Bot/blob/master/part_1.md)
